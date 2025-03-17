@@ -25,7 +25,7 @@
     </style>
     <script>
         function startCountdown() {
-            const targetDate = new Date("March 20, 2025 23:09:00 GMT+8").getTime();
+            const targetDate = new Date("March 20, 2025 23:15:00 GMT+8").getTime();
             const countdownElement = document.getElementById("countdown");
             const messageElement = document.getElementById("message");
             
